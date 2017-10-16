@@ -10,7 +10,7 @@ import java.util.Scanner;
  * This program has a scanner that manipulates DNA.
  * The program will display varitations of a DNA sequence.
  *
- * <p>Bugs: This program has no known bugs, but is missing code
+ * <p>Bugs: This program has no known bugs, but is missing code.
  *
  */
 
